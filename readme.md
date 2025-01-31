@@ -13,19 +13,12 @@ My goal is to leverage data to uncover insights and build predictive models that
 
 ## 📚 **Currently Working On**  
 - **📝** Exploring **NLP**, **Computer Vision**, and **Time Series Analysis**.  
-- **🔍** Building robust models for **classification**, **regression**, and **anomaly detection**.
+- **🔍** Building robust models for **classification**, **regression**, and **CNN MODLES AND VGG16**.
 
 ## 🎓 **Education**  
 Currently pursuing a **Master’s in Software Engineering** at **Ontario Tech University**, deepening my skills and knowledge in data science.
 
 ---
-
-## 🌐 **Connect with me**  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/mehakpreet-singh) or [Email](mailto:mehakpreet.singh@example.com).  
-Let’s collaborate and solve real-world problems using **data science**!  
-
----
-
 ## 🛠 **Languages and Tools**  
 Here are some of the tools and technologies I work with:  
 

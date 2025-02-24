@@ -10,8 +10,8 @@ I’m a **Data Scientist** passionate about **Machine Learning**, **AI**, and **
 - **📊 Predictive Modeling**: Building models for **healthcare**, **finance**, and **NLP**.  
 - **🔧 Data Preprocessing**: Feature engineering, **normalization**, and **data cleaning**.  
 - **📈 Data Analysis & Visualization**: **NumPy**, **Matplotlib**, **Seaborn**, and **Pandas** for data manipulation and visualizations.  
-- **🚀 Model Deployment**: Deploying and evaluating models in **production environments**.  
-
+- **🚀 Model Deployment**: Deploying and evaluating models in **production environments**.
+-**Certification** : Mircosoft AI Fundamentals AI-900
 ---
 
 ### 🛠 **Technologies I Use:**

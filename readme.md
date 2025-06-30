@@ -1,6 +1,8 @@
 # Hi 👋, I'm **Mehakpreet Singh**
+#Certficated AI Enngineer (Microsoft AI-102)
 
-I’m a **Data Scientist** passionate about **Machine Learning**, **AI**, and **Deep Learning**. I specialize in **Supervised & Unsupervised Learning**, **Deep Learning** (CNNs, RNNs), **Predictive Modeling** for healthcare, finance, and NLP, and **Data Preprocessing**. I’m also skilled in using libraries like **NumPy**, **Matplotlib**, **Seaborn**, and **Pandas** for data analysis and visualization. Currently pursuing a **Master’s in Software Engineering** at **Ontario Tech University**, and exploring **NLP**, **Computer Vision**, and **Time Series Analysis**.
+I’m a **Data Scientist** passionate about **Machine Learning**, **AI**, and **Deep Learning**. I specialize in **Supervised & Unsupervised Learning**, **Deep Learning** (CNNs, RNNs), **Predictive Modeling** for 
+healthcare, finance, and NLP, and **Data Preprocessing**. I’m also skilled in using libraries like **NumPy**, **Matplotlib**, **Seaborn**, and **Pandas** for data analysis and visualization. Currently pursuing a **Master’s in Software Engineering** at **Ontario Tech University**, and exploring **NLP**, **Computer Vision**, and **Time Series Analysis**.
 
 ---
 
